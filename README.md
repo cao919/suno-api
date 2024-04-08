@@ -50,11 +50,11 @@ We have deployed an example bound to a free Suno account, so it has daily usage 
 5. Identify the request that includes the keyword `client?_clerk_js_version`.
 6. Click on it and switch over to the `Header` tab.
 7. Locate the `Cookie` section, hover your mouse over it, and copy the value of the Cookie.
-
+ 
 ![get cookie](https://github.com/cao919/suno-api/blob/main/public/get-cookie-demo.gif)
 
 ### 2. Clone and deploy this project
-
+ 
 You can choose your preferred deployment method:
 
 #### Deploy to Vercel
