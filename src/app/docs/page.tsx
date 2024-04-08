@@ -19,7 +19,7 @@ export default function Docs() {
 \`gcui-art/suno-api\` currently mainly implements the following APIs:
 
 \`\`\`bash
-- \`/api/generate\`: Generate music
+- \`/api/generate\`: Generate music  www.520mus.top 生成音乐
 - \`/v1/chat/completions\`: Generate music - Call the generate API in a format 
   that works with OpenAI’s API.
 - \`/api/custom_generate\`: Generate music (Custom Mode, support setting lyrics, 
@@ -27,7 +27,7 @@ export default function Docs() {
 - \`/api/generate_lyrics\`: Generate lyrics based on prompt
 - \`/api/get\`: Get music information based on the id. Use “,” to separate multiple 
     ids.  If no IDs are provided, all music will be returned.
-- \`/api/get_limit\`: Get quota Info
+- \`/api/get_limit\`: Get quota Info  www.520mus.top 测试
 \`\`\`
 
 Feel free to explore the detailed API parameters and conduct tests on this page.
