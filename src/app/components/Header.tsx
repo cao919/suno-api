@@ -9,8 +9,8 @@ export default function Header() {
             <div className="max-w-3xl flex w-full items-center justify-between">
                 <div className="font-medium text-xl text-indigo-900 flex items-center gap-2">
                     <Logo className="w-4 h-4" />
-                    <Link href='/'>
-                        Suno API
+                    <Link href='http://39.108.0.201:41000/DefaultApp.aspx'>
+                        Suno API  www.520mus.top
                     </Link>
                 </div>
                 <div className="flex items-center justify-center gap-1 text-sm font-light text-indigo-900/90">
