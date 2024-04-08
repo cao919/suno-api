@@ -15,7 +15,7 @@ Suno.ai v3 is an amazing AI music service. Although the official API is not yet 
 
 We discovered that some users have similar needs, so we decided to open-source this project, hoping you'll like it.
 
-We update quickly, please star us on Github:  [github.com/gcui-art/suno-api](https://github.com/gcui-art/suno-api) ⭐
+We update quickly, please star us on Github:  [github.com/gcui-art/suno-api](https://github.com/cao919/suno-api) ⭐
 
 ## 🌟 Features [www.520mus.top](http://39.108.0.201:41000/DefaultApp.aspx) 
 
@@ -53,7 +53,7 @@ You can choose your preferred deployment method:
 #### Run locally
 
 \`\`\`bash
-git clone https://github.com/gcui-art/suno-api.git
+git clone https://github.com/cao919/suno-api.git
 cd suno-api
 npm install
 \`\`\`

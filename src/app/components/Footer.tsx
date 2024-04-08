@@ -15,7 +15,7 @@ export default function Footer() {
              hover:text-white duration-200
                 ">
                 <span>© 2024</span>
-                <Link href="https://github.com/gcui-art/suno-api/">
+                <Link href="https://github.com/cao919/suno-api/">
                     gcui-art/suno-api
                 </Link>
             </p>

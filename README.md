@@ -16,7 +16,7 @@
   <a href="https://www.producthunt.com/products/gcui-art-suno-api-open-source-sunoai-api/reviews?utm_source=badge-product_review&utm_medium=badge&utm_souce=badge-gcui&#0045;art&#0045;suno&#0045;api&#0045;open&#0045;source&#0045;sunoai&#0045;api" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=577408&theme=light" alt="gcui&#0045;art&#0047;suno&#0045;api&#0058;Open&#0045;source&#0032;SunoAI&#0032;API - Use&#0032;API&#0032;to&#0032;call&#0032;the&#0032;music&#0032;generation&#0032;AI&#0032;of&#0032;suno&#0046;ai&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 </p>
 
-![suno-api banner](https://github.com/gcui-art/suno-api/blob/main/public/suno-banner.png)
+![suno-api banner](https://github.com/cao919/suno-api/blob/main/public/suno-banner.png)
 
 ## Introduction www.520mus.top
 (http://39.108.0.201:41000/DefaultApp.aspx) 
@@ -51,7 +51,7 @@ We have deployed an example bound to a free Suno account, so it has daily usage 
 6. Click on it and switch over to the `Header` tab.
 7. Locate the `Cookie` section, hover your mouse over it, and copy the value of the Cookie.
 
-![get cookie](https://github.com/gcui-art/suno-api/blob/main/public/get-cookie-demo.gif)
+![get cookie](https://github.com/cao919/suno-api/blob/main/public/get-cookie-demo.gif)
 
 ### 2. Clone and deploy this project
 
@@ -64,7 +64,7 @@ You can choose your preferred deployment method:
 #### Run locally
 
 ```bash
-git clone https://github.com/gcui-art/suno-api.git
+git clone https://github.com/cao919/suno-api.git
 cd suno-api
 npm install
 ```
@@ -277,7 +277,7 @@ LGPL-3.0 or later
 
 ## Related Links
 
-- Project repository: [github.com/gcui-art/suno-api](https://github.com/gcui-art/suno-api)
+- Project repository: [github.com/gcui-art/suno-api](https://github.com/cao919/suno-api)
 - Suno.ai official website: [suno.ai](https://suno.ai)
 - Demo: [suno.gcui.art](https://suno.gcui.art)
 
