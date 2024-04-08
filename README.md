@@ -19,13 +19,13 @@
 ![suno-api banner](https://github.com/cao919/suno-api/blob/main/public/suno-banner.png)
 
 ## Introduction www.520mus.top
-(http://39.108.0.201:41000/DefaultApp.aspx) 
+[www.520mus.top](http://39.108.0.201:41000/DefaultApp.aspx) 
 Suno.ai v3 is an amazing AI music service. Although the official API is not yet available, we couldn't wait to integrate its capabilities somewhere.
 
 We discovered that some users have similar needs, so we decided to open-source this project, hoping you'll like it.
 
 ## Demo
-
+[www.520mus.top](http://39.108.0.201:41000/DefaultApp.aspx) 
 We have deployed an example bound to a free Suno account, so it has daily usage limits, but you can see how it runs:
 [suno.gcui.art](https://suno.gcui.art)
 

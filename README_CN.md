@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center"">
-      Suno AI API
+      Suno AI API www.520mus.top
   </h1>
   <p>用 API 调用 suno.ai 的音乐生成 AI，并且可以轻松集成到 GPTs 等 agent 中。</p>
   <p>👉 我们更新很快，欢迎 star。</p>
