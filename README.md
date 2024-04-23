@@ -8,8 +8,8 @@
 <p align="center">
   <a target="_blank" href="./README.md">English</a> 
   | <a target="_blank" href="./README_CN.md">简体中文</a> 
-  | <a target="_blank" href="https://suno.gcui.art">Demo</a> 
-  | <a target="_blank" href="https://suno.gcui.art/docs">Docs</a> 
+  | <a target="_blank" href="https://suno-api-tan-two.520mus.top">Demo</a> 
+  | <a target="_blank" href="https://suno-api-tan-two.520mus.top/docs">Docs</a> 
   | <a target="_blank" href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgcui-art%2Fsuno-api&env=SUNO_COOKIE&project-name=suno-api&repository-name=suno-api">Deploy with Vercel</a> 
 </p>
 <p align="center">
@@ -27,7 +27,7 @@ We discovered that some users have similar needs, so we decided to open-source t
 ## Demo
 [www.520mus.top](http://39.108.0.201:41000/DefaultApp.aspx) 
 We have deployed an example bound to a free Suno account, so it has daily usage limits, but you can see how it runs:
-[suno.gcui.art](https://suno.gcui.art)
+[suno-api-tan-two.520mus.top](https://suno-api-tan-two.520mus.top)
 
 ## Features
 
@@ -126,7 +126,7 @@ Suno API currently mainly implements the following APIs:
 ```
 
 For more detailed documentation, please check out the demo site:
-[suno.gcui.art/docs](https://suno.gcui.art/docs)
+[https://suno-api-tan-two.520mus.top/docs](https://suno-api-tan-two.520mus.top/docs)
 
 ## API Integration Code Example
 
