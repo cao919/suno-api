@@ -10,6 +10,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "devnext": "next",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -18,12 +19,12 @@
     "@vercel/analytics": "^1.2.2",
     "axios": "^1.6.8",
     "axios-cookiejar-support": "^5.0.0",
-    "next": "14.1.4",
+    "next": "^14.1.4",
     "next-swagger-doc": "^0.4.0",
     "pino": "^8.19.0",
     "pino-pretty": "^11.0.0",
-    "react": "^18",
-    "react-dom": "^18",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-markdown": "^9.0.1",
     "swagger-ui-react": "^5.12.3",
     "tough-cookie": "^4.1.3",
