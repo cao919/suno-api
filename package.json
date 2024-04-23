@@ -9,8 +9,8 @@
   "version": "1.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "devnext": "next",
+    "dev": "next",
+    "devnext": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
